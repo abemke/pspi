@@ -18,7 +18,7 @@ Nasze projekty:
 1. [Włodek Bzyl](https://bayesian.firebaseapp.com), [Projekty](https://github.com/h5c3j/project-template).
 1. [Marek Andrzejewski](https://github.com/marekug) 
 1. [Ewa Barczak](https://github.com/ewagrzywka)
-1. AA Bemke
+1. [Aleksandra Bemke](https://github.com/abemke)
 1. K Idziak
 1. D Lachowicz
 1. MA Lewandowski
@@ -33,9 +33,9 @@ Nasze projekty:
 1. AM Szostak
 1. [Magdalena Sawicka][projekt](https://github.com/msawicka/worktime)
 1. D Uss
-1. [Jakub Wałek](https://github.com/qbaw), [projekty](https://github.com/qbaw/projekty)
+1. J Wałek
 1. A Wróblewska
-1. [Rafał Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016)
+1. [R Wróblewski](https://github.com/ElektroITmatyk), [Repozytorium](https://github.com/ElektroITmatyk/TI-2016)
 1. A Zieliński
 
 
