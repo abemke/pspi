@@ -49,7 +49,7 @@ Nasze projekty:
 1. Git:
   - Michael Hartl.
     [Learn Enough Git to Be Dangerous](http://www.learnenough.com/git-tutorial)
-  - [ProGit Book, v2](http://git-scm.com/book/en/v2) rodział 6
+  - [ProGit Book, v2](http://git-scm.com/book/en/v2) rodział 6 przeczytać
   - [Using pull requests (on GitHub)](https://help.github.com/articles/using-pull-requests/)
   - [Konfiguracja](http://wbzyl.inf.ug.edu.pl/sp/git)
 1. Edytory:
