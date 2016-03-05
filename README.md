@@ -18,7 +18,7 @@ Nasze projekty:
 1. [Włodek Bzyl](https://bayesian.firebaseapp.com), [Projekty](https://github.com/h5c3j/project-template).
 1. MJ Andrzejewski
 2. [Ewa Barczak](https://github.com/ewagrzywka)
-1. AA Bemke
+1. [Aleksandra Bemke] (https://github.com/abemke)
 1. K Idziak
 1. D Lachowicz
 1. MA Lewandowski
