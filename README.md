@@ -162,7 +162,7 @@ Do pliku *~/.atom/snippets.cson* dopisujemy dwa snippety:
 - [GitHub Guides](https://guides.github.com/)
 - [Got 15 minutes and want to learn Git?](http://try.github.io/levels/1/challenges/1)
 
-2\. HTML & CSS
+2\. HTML & CSS Przeczytać na kwiecień
 
 - [HTML 5 Outliner](https://gsnedders.html5.org/outliner/);
   [Chrome extension](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
